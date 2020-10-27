@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Live Project URL
+## Live Project URL
 https://youtube-search-jw5b0albg.vercel.app/
 
 ## Available Scripts
